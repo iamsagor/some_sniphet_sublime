@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="${1:paragrap}">
+	<h3>Lorem ipsum dolor sit amet, consectetur adipisicing.</h3>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem,
+	 iste? Cumque architecto dicta eligendi alias eius nam earum neque voluptate quis,
+	  maiores voluptatum soluta ab.</p>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>p</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>
